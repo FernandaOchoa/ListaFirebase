@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ListaFirebase</string>
+    <string name="add">Añadir Tarea</string>
+</resources>
